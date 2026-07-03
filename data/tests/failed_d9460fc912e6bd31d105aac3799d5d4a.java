@@ -1,0 +1,1 @@
+src/main/java/org/osiam/client/AbstractOsiamService.java;143;itest("", 143).given(type, String.class).checkEq(queryResultType.toString(), "[simple type, class org.osiam.resources.scim.SCIMSearchResult<java.lang.String>]");

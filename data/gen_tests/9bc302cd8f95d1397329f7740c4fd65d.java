@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/voice/v1/connectionpolicy/ConnectionPolicyTargetReader.java;51;itest("", 51).given(path,"{ConnectionPolicySid}").given(this.connectionPolicySid,"{ConnectionPolicySid}").checkEq(path,"{ConnectionPolicySid}");

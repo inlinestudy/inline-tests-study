@@ -1,0 +1,3 @@
+e46bdd0ccf7aa1a52f93863d679eef7674894a8f;eaa7fa39f2d27b205dc060cbecaf3397f168fce4;e46bdd0ccf7aa1a52f93863d679eef7674894a8f;target stmt bit;AgNO3_jcifs-ng/src/test/java/jcifs/tests/FileAttributesTest.java;208;null;;null;ONE_TO_MANY
+e46bdd0ccf7aa1a52f93863d679eef7674894a8f;eaa7fa39f2d27b205dc060cbecaf3397f168fce4;eaa7fa39f2d27b205dc060cbecaf3397f168fce4;target stmt bit;AgNO3_jcifs-ng/src/test/java/jcifs/tests/FileAttributesTest.java;207;null;;null;ONE_TO_MANY
+e46bdd0ccf7aa1a52f93863d679eef7674894a8f;eaa7fa39f2d27b205dc060cbecaf3397f168fce4;eaa7fa39f2d27b205dc060cbecaf3397f168fce4;target stmt bit;AgNO3_jcifs-ng/src/test/java/jcifs/tests/FileAttributesTest.java;209;null;;null;ONE_TO_MANY

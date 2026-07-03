@@ -1,0 +1,1 @@
+src/main/java/org/gitlab4j/api/DiscussionsApi.java;352;itest("", 352).given(put(Response.Status.OK, formData.asMap(), "projects", getProjectIdOrPath(projectIdOrPath), "merge_requests", mergeRequestIid, "discussions", discussionId),null).checkEq(response,null);

@@ -1,0 +1,1 @@
+src/main/java/io/redlink/sdk/impl/data/RedLinkDataImpl.java;184;itest("", 184).given(client, new io.redlink.sdk.util.RedLinkClient()).given(target, new java.net.URI("http://localhost/dev/null")).given(format, RDFFormat.TURTLE).checkEq(entity, "");

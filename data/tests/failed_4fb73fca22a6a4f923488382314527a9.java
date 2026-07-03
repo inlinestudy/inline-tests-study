@@ -1,0 +1,1 @@
+src/main/java/biweekly/parameter/ICalParameterCaseClasses.java;47;itest("", 47).given(clazz, biweekly.Biweekly.ParserChainTextString.class).checkEq(constructor.getName(), "biweekly.Biweekly$ParserChainTextString");

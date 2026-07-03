@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Shipment.java;862;itest("", 883).given(request(RequestMethod.GET, String.format("%s/smartrate", instanceURL(Shipment.class, this.getId())), params, SmartrateCollection.class, apiKey),null).checkEq(smartrateCollection,null);

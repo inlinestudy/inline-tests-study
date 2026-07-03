@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Shipment.java;1037;itest("", 1058).given(request(RequestMethod.POST, String.format("%s/buy", instanceURL(Shipment.class, this.getId())), params, Shipment.class, apiKey),null).checkEq(response,null);

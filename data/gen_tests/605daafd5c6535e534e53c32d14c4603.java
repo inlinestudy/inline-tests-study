@@ -1,0 +1,1 @@
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/EquinoxClassLoaderHandler.java;66;itest("", 68).given(addBundleFile(ReflectionUtils.getFieldVal(bundlefile, "next"), path, classLoaders, classpathFinder, log),false).given(handled,true).checkEq(handled,true);

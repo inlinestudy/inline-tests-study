@@ -1,0 +1,3 @@
+src/main/java/com/metamx/emitter/core/HttpPostEmitter.java;307;itest("", 307).given(parts,new String[] {"(]$xnF=w>YH6O"}).given(parts.length,-2417).checkEq(password,"");
+src/main/java/com/metamx/emitter/core/HttpPostEmitter.java;307;itest("", 307).given(parts,new String[] {"", "<d,:@iMW", "", "aJZ", "(W:Kll]=}6T.gv`L#d", "[Y_<!29#*", "<d,:@iMW", "[Y_<!29#*"}).given(parts.length,355).checkEq(password,"<d,:@iMW");
+src/main/java/com/metamx/emitter/core/HttpPostEmitter.java;307;itest("", 307).given(parts,new String[] {"", "aJZ", "nR`_}JPe", "lXM]_t?-=", "", "[Y_<!29#*", "com.metamx.emitter.core.HttpPostEmitter_307", "<d,:@iMW", "~c7Q&"}).given(parts.length,0).checkEq(password,"");

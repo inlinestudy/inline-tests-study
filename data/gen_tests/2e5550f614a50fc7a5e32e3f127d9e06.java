@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/events/v1/subscription/SubscribedEventReader.java;51;itest("", 51).given(path,"{SubscriptionSid}").given(this.subscriptionSid,"{SubscriptionSid}").checkEq(path,"{SubscriptionSid}");

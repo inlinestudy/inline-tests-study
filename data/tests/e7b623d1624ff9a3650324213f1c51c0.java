@@ -1,0 +1,1 @@
+src/main/java/org/takes/facets/flash/TkFlash.java;100;itest("", 100).given(this.origin.act(request), new RsText()).given(this.cookie, "foo").checkTrue(response.toString().contains("RsWithCookie(super=RsWrap(origin=org.takes.rs.RsWithCookie"));

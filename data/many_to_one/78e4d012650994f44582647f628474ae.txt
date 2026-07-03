@@ -1,0 +1,4 @@
+895b420c7561377b83947fed4b3ea5ee8d8e474b;09ba1d23b4da33ff7413f5463179bd6291a03183;895b420c7561377b83947fed4b3ea5ee8d8e474b;target stmt bit;jinahya_bit-io/src/main/java/com/github/jinahya/bit/io/AbstractBitInput.java;161;null;;null;MANY_TO_ONE
+895b420c7561377b83947fed4b3ea5ee8d8e474b;09ba1d23b4da33ff7413f5463179bd6291a03183;895b420c7561377b83947fed4b3ea5ee8d8e474b;target stmt bit;jinahya_bit-io/src/main/java/com/github/jinahya/bit/io/AbstractBitInput.java;162;null;;null;MANY_TO_ONE
+895b420c7561377b83947fed4b3ea5ee8d8e474b;09ba1d23b4da33ff7413f5463179bd6291a03183;895b420c7561377b83947fed4b3ea5ee8d8e474b;target stmt bit;jinahya_bit-io/src/main/java/com/github/jinahya/bit/io/AbstractBitInput.java;163;null;;null;MANY_TO_ONE
+895b420c7561377b83947fed4b3ea5ee8d8e474b;09ba1d23b4da33ff7413f5463179bd6291a03183;09ba1d23b4da33ff7413f5463179bd6291a03183;target stmt bit;jinahya_bit-io/src/main/java/com/github/jinahya/bit/io/AbstractBitInput.java;160;null;;null;MANY_TO_ONE

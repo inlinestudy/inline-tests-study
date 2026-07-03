@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Shipment.java;804;itest("", 824).given(request(RequestMethod.POST, String.format("%s/rerate", instanceURL(Shipment.class, this.getId())), params, Shipment.class, apiKey),null).checkEq(response,null);

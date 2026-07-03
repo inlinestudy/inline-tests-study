@@ -1,0 +1,2 @@
+src/main/java/org/walkmod/util/FileResource.java;78;itest("", 78).given(file, new File("pom.xml")).checkTrue(fileNormalized.startsWith("/Users") || fileNormalized.startsWith("/home")).checkTrue(fileNormalized.endsWith("pom.xml"));
+src/main/java/org/walkmod/util/FileResource.java;78;itest("", 78).given(file, new File("foo.xml")).checkTrue(fileNormalized.startsWith("/Users") || fileNormalized.startsWith("/home")).checkTrue(fileNormalized.endsWith("foo.xml"));

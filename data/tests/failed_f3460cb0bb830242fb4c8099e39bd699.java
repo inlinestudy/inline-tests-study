@@ -1,0 +1,1 @@
+src/main/java/com/xeiam/sundial/plugins/AnnotationJobTriggerPlugin.java;105;itest("", 105).given(jobClass, Job.class).given(simpleTrigger, Job.class.getAnnotation(SimpleTrigger.class)).given(jobDataMap, null).checkEq(job.getName(), "");

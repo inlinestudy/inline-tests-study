@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Pickup.java;319;itest("", 356).given(request(RequestMethod.POST, String.format("%s/buy", instanceURL(Pickup.class, this.getId())), params, Pickup.class, apiKey),null).checkEq(response,null);

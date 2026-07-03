@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/messaging/v1/service/UsAppToPersonReader.java;51;itest("", 51).given(path,"{MessagingServiceSid}").given(this.messagingServiceSid,"{MessagingServiceSid}").checkEq(path,"{MessagingServiceSid}");

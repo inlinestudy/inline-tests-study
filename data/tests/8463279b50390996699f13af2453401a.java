@@ -1,0 +1,1 @@
+src/main/java/edu/ucla/sspace/clustering/BisectingKMeans.java;130;itest("", 130).given(clustering, new DirectClustering()).given(clusterToSplit, new edu.ucla.sspace.matrix.ArrayMatrix(new double[][]{new double[]{1,2,3}, new double[]{1,2,3}})).given(props, new Properties()).checkEq(newAssignments.length, 2);

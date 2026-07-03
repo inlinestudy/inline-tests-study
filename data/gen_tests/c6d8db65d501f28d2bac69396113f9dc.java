@@ -1,0 +1,1 @@
+src/main/java/org/nutz/weixin/impl/WxApi2Impl.java;261;itest("", 252).given(getAccessToken(),null).given(type,null).checkEq(url,"http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token=null&type=null");

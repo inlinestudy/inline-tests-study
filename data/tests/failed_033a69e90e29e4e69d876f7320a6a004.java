@@ -1,0 +1,1 @@
+src/main/java/org/asteriskjava/fastagi/SpeechRecognitionResult.java;139;itest("", 139).given(agiReply.getAttribute("score" + i), "12").given(agiReply.getAttribute("text" + i), "foo").given(agiReply.getAttribute("grammar" + i), "bar").checkEq(result.score, 12).checkEq(result.text, "foo").checkEq(result.grammar, "bar");

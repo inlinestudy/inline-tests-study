@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/preview/trustedComms/brandedchannel/ChannelCreator.java;48;itest("", 48).given(path,"{BrandedChannelSid}").given(this.brandedChannelSid,"{BrandedChannelSid}").checkEq(path,"{BrandedChannelSid}");

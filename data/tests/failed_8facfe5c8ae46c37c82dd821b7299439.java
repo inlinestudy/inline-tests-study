@@ -1,0 +1,1 @@
+src/main/java/xdean/annotation/processor/toolkit/meta/AbstractMetaProcessor.java;40;itest("", 40).given(meta, AbstractMetaProcessor.class.getAnnotation(SupportedMetaAnnotation.class)).checkTrue(group());

@@ -1,0 +1,1 @@
+src/main/java/com/sigopt/net/PathBuilder.java;22;itest("", 23).given(path,"").given(start,0).given(determineValue(match, obj, params),"com.sigopt.exception.APIException").given(end,0).checkEq(path,"com.sigopt.exception.APIException");

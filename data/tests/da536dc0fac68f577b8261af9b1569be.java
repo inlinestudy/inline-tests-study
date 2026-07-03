@@ -1,0 +1,4 @@
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/WebsphereTraditionalClassLoaderHandler.java;41;itest("", 41).given(c.getName(), "com.ibm.ws.classloader.CompoundClassLoader").checkFalse(group());
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/WebsphereTraditionalClassLoaderHandler.java;41;itest("", 41).given(c.getName(), "com.ibm.ws.classloader.ProtectionClassLoader").checkFalse(group());
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/WebsphereTraditionalClassLoaderHandler.java;41;itest("", 41).given(c.getName(), "com.ibm.ws.bootstrap.ExtClassLoader").checkFalse(group());
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/WebsphereTraditionalClassLoaderHandler.java;41;itest("", 41).given(c.getName(), "com.ibm.ws.bootstrap.ExtClassLoaders").checkTrue(group());

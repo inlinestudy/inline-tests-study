@@ -1,0 +1,1 @@
+src/main/java/jcifs/smb1/dcerpc/DcerpcPipeHandle.java;41;itest("", 41).given(binding.server,"9X~8Y%^s`AxRx{(").given(binding.endpoint,"9X~8Y%^s`AxRx{(").checkEq(url,"smb://9X~8Y%^s`AxRx{(/IPC$/^s`AxRx{(");

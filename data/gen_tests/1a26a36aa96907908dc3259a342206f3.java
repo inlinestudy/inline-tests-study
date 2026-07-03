@@ -1,0 +1,1 @@
+src/main/java/util/Base64.java;493;itest("", 466).given(sIx,0).given(IA,new int[] {18, 0, 0, 0}).given(i,709).given(j,18).given(sArr,new byte[] {0, 1, 38, -83, -68, 18, 89, -50, -105}).checkEq(i,1733);

@@ -1,0 +1,3 @@
+1a5daec96f97ce60e43150784d44946a773d7caf;e9d311e545c238c3a555e88a1202b1d7ae36602e;1a5daec96f97ce60e43150784d44946a773d7caf;target stmt bit;PeterisP_LVTagger/src/edu/stanford/nlp/ie/NERFeatureFactory.java;1286;null;;null;ONE_TO_MANY
+1a5daec96f97ce60e43150784d44946a773d7caf;e9d311e545c238c3a555e88a1202b1d7ae36602e;e9d311e545c238c3a555e88a1202b1d7ae36602e;target stmt bit;PeterisP_LVTagger/src/edu/stanford/nlp/ie/NERFeatureFactory.java;1294;null;;null;ONE_TO_MANY
+1a5daec96f97ce60e43150784d44946a773d7caf;e9d311e545c238c3a555e88a1202b1d7ae36602e;e9d311e545c238c3a555e88a1202b1d7ae36602e;target stmt bit;PeterisP_LVTagger/src/edu/stanford/nlp/ie/NERFeatureFactory.java;1296;null;;null;ONE_TO_MANY

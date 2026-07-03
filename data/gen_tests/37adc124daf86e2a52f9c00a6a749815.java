@@ -1,0 +1,1 @@
+src/main/java/fr/devnied/bitlib/BitUtils.java;226;itest("", 226).given(BYTE_SIZE,-70).given(DEFAULT_VALUE,-70).given(currentBitIndex,-1).given(byteTab,new byte[] {0, 0, 0, 0, 0, 0}).given(getMask(mod, readSize),-1).checkEq(currentValue,0);

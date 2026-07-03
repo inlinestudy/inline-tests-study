@@ -1,0 +1,1 @@
+src/main/java/com/networknt/schema/RefValidator.java;65;itest("", 65).given(validationContext, new ValidationContext(JsonMetaSchema.getDraftV4(), JsonSchemaFactory.getInstance())).given(url, URLFactory.toURL("resource:tests/url_mapping/schema-with-ref.json"));

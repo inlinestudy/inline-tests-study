@@ -1,0 +1,3 @@
+src/main/java/org/cp/elements/data/struct/BloomFilter.java;192;itest("", 162).given(bitArray,new int[] {-97, 0, 0, -1980, 77, 0}).given(BIT_MASKS,new int[] {-97, 0, 0, -1980, 77, 0}).given(bitIndex,0).checkEq(accepted,true);
+src/main/java/org/cp/elements/data/struct/BloomFilter.java;192;itest("", 162).given(bitArray,new int[] {0}).given(BIT_MASKS,new int[] {0}).given(bitIndex,0).checkEq(accepted,false);
+src/main/java/org/cp/elements/data/struct/BloomFilter.java;192;itest("", 162).given(bitArray,new int[] {676, -1893, 1103, -1735, 0}).given(BIT_MASKS,new int[] {676, -1893, 1103, -1735, 0}).given(bitIndex,32).checkEq(accepted,true);

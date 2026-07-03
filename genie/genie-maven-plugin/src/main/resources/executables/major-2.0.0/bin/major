@@ -1,0 +1,61 @@
+#!/usr/bin/env bash
+
+BASE=$(cd $(dirname $0)/.. && pwd)
+JAVA_ARGS=()
+CLASSPATH="$BASE/lib/major.jar"
+MML="${MML:-}"
+LOGGING="${LOGGING:-}"
+EXPORT="${EXPORT:-}"
+REFACTOR="${REFACTOR:-}"
+
+while (( "$#" )); do
+    case "$1" in
+        -classpath|-cp)
+            CLASSPATH="$CLASSPATH:$2"
+            shift 2
+            ;;
+        --logging)
+            if [ -z "$LOGGING" ]; then
+                LOGGING="logging:$2"
+            else
+                LOGGING="$LOGGING,$2"
+            fi
+            shift 2
+            ;;
+        --mml)
+            MML="mml:$2"
+            shift 2
+            ;;
+        --export)
+            EXPORT="$2"
+            shift 2
+            ;;
+        --refactor)
+            REFACTOR="$2"
+            shift 2
+            ;;
+        *)
+            JAVA_ARGS+=("$1")
+            shift
+            ;;
+    esac
+done
+
+PLUGIN_ARG="-Xplugin:MajorPlugin"
+if [ -n "$LOGGING" ]; then
+    PLUGIN_ARG="$PLUGIN_ARG $LOGGING"
+fi
+
+if [ -n "$MML" ]; then
+    PLUGIN_ARG="$PLUGIN_ARG $MML"
+fi
+
+if [ -n "$EXPORT" ]; then
+    PLUGIN_ARG="$PLUGIN_ARG $EXPORT"
+fi
+
+if [ -n "$REFACTOR" ]; then
+    PLUGIN_ARG="$PLUGIN_ARG $REFACTOR"
+fi
+
+javac -cp "$CLASSPATH" "$PLUGIN_ARG" ${JAVA_ARGS[*]}

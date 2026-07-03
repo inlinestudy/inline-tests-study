@@ -1,0 +1,1 @@
+src/main/java/org/ansj/app/crf/MakeTrainFile.java;29;itest("", 29).given(args,new String[] {"", "aJZ", "nR`_}JPe", "lXM]_t?-=", "", "[Y_<!29#*", "org.ansj.app.crf.MakeTrainFile_29", "<d,:@iMW", "~c7Q&"}).checkEq(outputPath,"aJZ");

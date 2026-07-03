@@ -1,0 +1,3 @@
+src/main/java6/net/finmath/montecarlo/interestrate/products/indices/LIBORIndex.java;71;itest("", 71).given(getName(), "foo").given(model.getModel().getForwardRateCurve().getName(), "bar").checkTrue(group());
+src/main/java6/net/finmath/montecarlo/interestrate/products/indices/LIBORIndex.java;71;itest("", 71).given(getName(), null).given(model.getModel().getForwardRateCurve().getName(), "bar").checkFalse(group());
+src/main/java6/net/finmath/montecarlo/interestrate/products/indices/LIBORIndex.java;71;itest("", 71).given(getName(), "foo").given(model.getModel().getForwardRateCurve().getName(), "foo").checkFalse(group());

@@ -1,0 +1,1 @@
+src/main/java/com/github/jnidzwetzki/bitfinex/v2/callback/channel/CandlestickHandler.java;75;itest("", 75).given(volume,1.0).given(high,1.0).given(low,1111.163).given(close,-961.48351893).given(open,1.0).given(timestamp,0L).checkEq(tick,"0.xml");

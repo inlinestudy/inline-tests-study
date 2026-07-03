@@ -1,0 +1,1 @@
+src/main/java/org/nutz/weixin/impl/AbstractWxApi2.java;255;itest("", 255).given(jt,null).given(nonceStr,"org.nutz.weixin.impl.AbstractWxApi2_255").given(url,"jsapi_ticket=%s&noncestr=%s&timestamp=%d&url=%s").given(timestamp,2669L).checkEq(str,"jsapi_ticket=null&noncestr=org.nutz.weixin.impl.AbstractWxApi2_255&timestamp=2669&url=jsapi_ticket=%s&noncestr=%s&timestamp=%d&url=%s");

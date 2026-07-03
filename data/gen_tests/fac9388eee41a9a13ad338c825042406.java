@@ -1,0 +1,1 @@
+src/main/java/es/ehu/si/ixa/ixa/pipe/nerc/dict/MFSResource.java;106;itest("", 106).given(lemmas,"1.xml").given(i,0).given(posTags,new String[] {"&hy:Dsm", "", "a'.S HT^%q5 [vgL2*", "oLk", "MJ:uH1Q6[Dz2<.]upo", "u", "Ks%WO]", "]Pk3p[M2c!r[ `W))", ""}).checkEq(entrySearch,"#&");

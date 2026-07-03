@@ -1,0 +1,1 @@
+src/main/java/de/hshannover/f4/trust/ifmapj/channel/AbstractChannel.java;451;itest("", 433).given(name,"de.hshannover.f4.trust.ifmapj.channel.AbstractChannel_433").given(idx,16).checkEq(certCN,"hshannover.f4");

@@ -1,0 +1,4 @@
+src/main/java/com/couchbase/client/core/node/locate/KeyValueLocator.java;96;itest("", 96).given(node.isState(LifecycleState.CONNECTED), true).given(node.isState(LifecycleState.DEGRADED), true).checkTrue(group());
+src/main/java/com/couchbase/client/core/node/locate/KeyValueLocator.java;96;itest("", 96).given(node.isState(LifecycleState.CONNECTED), true).given(node.isState(LifecycleState.DEGRADED), false).checkTrue(group());
+src/main/java/com/couchbase/client/core/node/locate/KeyValueLocator.java;96;itest("", 96).given(node.isState(LifecycleState.CONNECTED), false).given(node.isState(LifecycleState.DEGRADED), true).checkTrue(group());
+src/main/java/com/couchbase/client/core/node/locate/KeyValueLocator.java;96;itest("", 96).given(node.isState(LifecycleState.CONNECTED), false).given(node.isState(LifecycleState.DEGRADED), false).checkFalse(group());

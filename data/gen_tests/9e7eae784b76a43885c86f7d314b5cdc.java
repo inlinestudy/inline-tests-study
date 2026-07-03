@@ -1,0 +1,1 @@
+src/main/java/jscover/filesystem/ConfigurationForFS.java;447;itest("", 447).given(EXLCUDE_REG_PREFIX,"jscover.filesystem.ConfigurationForFS_447").given(arg,"jscover.filesystem.ConfigurationForFS_447").checkEq(patternString,"");

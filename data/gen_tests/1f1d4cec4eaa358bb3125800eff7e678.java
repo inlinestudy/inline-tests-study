@@ -1,0 +1,3 @@
+src/main/java/com/venky/core/util/pkg/DirectoryIntrospector.java;26;itest("", 26).given(path,"").given(pathRelativeToRoot,"").given(File.separatorChar,'P').checkTrue(group());
+src/main/java/com/venky/core/util/pkg/DirectoryIntrospector.java;26;itest("", 26).given(path,"]i\"i<bA}`").given(pathRelativeToRoot,"com.venky.core.util.pkg.DirectoryIntrospector_26").given(File.separatorChar,'h').checkFalse(group());
+src/main/java/com/venky/core/util/pkg/DirectoryIntrospector.java;26;itest("", 26).given(path,"K<Od4';Bd|]9[B|/").given(pathRelativeToRoot,"K<Od4';Bd|]9[B|5H").given(File.separatorChar,'5').checkTrue(group());

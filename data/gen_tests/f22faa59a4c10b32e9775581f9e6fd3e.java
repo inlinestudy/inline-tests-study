@@ -1,0 +1,1 @@
+src/main/java/net/finmath/montecarlo/interestrate/products/indices/NumerairePerformanceIndex.java;67;itest("", 67).given(fixingDate,"0.xml").given(paymentDate,"1.xml").given(daycountConvention,"2.xml").checkEq(periodLength,-37.625);

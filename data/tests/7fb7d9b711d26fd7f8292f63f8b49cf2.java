@@ -1,0 +1,1 @@
+src/main/java/net/finmath/montecarlo/interestrate/HullWhiteModel.java;387;itest("", 387).given(discountCurveFromForwardCurve.getDiscountFactor(curveModel, maturity), 10).given(discountCurveFromForwardCurve.getDiscountFactor(curveModel, time), 2).given(B, 1).given(zeroRate, 2).given(getShortRateConditionalVariance(0,time), 3).checkEq(lnA, 2.1094379124341005);

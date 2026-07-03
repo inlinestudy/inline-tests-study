@@ -1,0 +1,1 @@
+src/main/java/nonapi/io/github/classgraph/classpath/ClasspathOrder.java;343;itest("", 332).given(valid,false).given(addClasspathEntries(pathObject.toString(), classLoader, log),true).checkEq(valid,true);

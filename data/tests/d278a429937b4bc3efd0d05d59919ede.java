@@ -1,0 +1,5 @@
+src/main/java/org/jsoup/select/ng/ElementSelector.java;32;itest("", 32).given(cls, "foo").given(el.classNames(), new java.util.HashSet<String>(java.util.Arrays.asList("bar", "bar2"))).checkTrue(group());
+src/main/java/org/jsoup/select/ng/ElementSelector.java;32;itest("", 32).given(cls, null).given(el.classNames(), new java.util.HashSet<String>(java.util.Arrays.asList("bar", "bar2"))).checkFalse(group());
+src/main/java/org/jsoup/select/ng/ElementSelector.java;32;itest("", 32).given(cls, "foo").given(el.classNames(), new java.util.HashSet<String>(java.util.Arrays.asList("bar", "foo"))).checkFalse(group());
+src/main/java/org/jsoup/select/ng/ElementSelector.java;32;itest("", 32).given(cls, "foo").given(el.classNames(), new java.util.HashSet<String>(java.util.Arrays.asList("bar", "foo", "f"))).checkFalse(group());
+src/main/java/org/jsoup/select/ng/ElementSelector.java;32;itest("", 32).given(cls, null).given(el.classNames(), new java.util.HashSet<String>(java.util.Arrays.asList("bar", "fx"))).checkFalse(group());

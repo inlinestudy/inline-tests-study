@@ -1,0 +1,10 @@
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "base").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "basefont").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "bgsound").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "command").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "link").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "meta").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "noframes").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "script").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "style").checkTrue(group());
+src/main/java/org/jsoup/parser/TreeBuilderState.java;283;itest("", 283).given(name, "title").checkTrue(group());

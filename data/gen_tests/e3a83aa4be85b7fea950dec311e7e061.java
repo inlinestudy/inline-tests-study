@@ -1,0 +1,1 @@
+src/main/java/nonapi/io/github/classgraph/fileslice/Slice.java;237;itest("", 237).given(parentSlice.hashCode,-253).given(sliceStartPos,3533L).given(parentSlice,null).given(sliceLength,0L).checkEq(hashCode,24730);

@@ -1,0 +1,3 @@
+45fe556074715bacbd4c72e98e8c48548731515d;899b957b93847c9bda9e15eae3ab1a1409e3dcf8;45fe556074715bacbd4c72e98e8c48548731515d;target stmt regex;PeterisP_morphology/src/main/java/lv/semti/morphology/analyzer/Analyzer.java;244;null;;null;MANY_TO_ONE
+45fe556074715bacbd4c72e98e8c48548731515d;899b957b93847c9bda9e15eae3ab1a1409e3dcf8;45fe556074715bacbd4c72e98e8c48548731515d;target stmt regex;PeterisP_morphology/src/main/java/lv/semti/morphology/analyzer/Analyzer.java;253;null;;null;MANY_TO_ONE
+45fe556074715bacbd4c72e98e8c48548731515d;899b957b93847c9bda9e15eae3ab1a1409e3dcf8;899b957b93847c9bda9e15eae3ab1a1409e3dcf8;target stmt regex;PeterisP_morphology/src/main/java/lv/semti/morphology/analyzer/Analyzer.java;234;null;;null;MANY_TO_ONE

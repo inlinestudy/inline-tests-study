@@ -1,0 +1,1 @@
+src/main/java/jscover/filesystem/ConfigurationForFS.java;440;itest("", 440).given(EXLCUDE_PREFIX,"jscover.filesystem.ConfigurationForFS_440").given(arg,"jscover.filesystem.ConfigurationForFS_440").checkEq(uri,"");

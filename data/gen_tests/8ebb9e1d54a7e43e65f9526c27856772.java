@@ -1,0 +1,2 @@
+src/main/java/org/jcodec/codecs/h264/decode/BitstreamParser.java;136;itest("", 121).given(mbX,0).given(blkY,0).given(topMBType,"2.xml").given(blkX,0).given(sharedState.i4x4PredTop,new int[] {0, 0, 0, 0, 0, 2}).checkEq(predModeB,2);
+src/main/java/org/jcodec/codecs/h264/decode/BitstreamParser.java;136;itest("", 121).given(mbX,2).given(blkY,-229).given(topMBType,"4.xml").given(blkX,2).given(sharedState.i4x4PredTop,new int[] {-229, -1835, 2}).checkEq(predModeB,2);

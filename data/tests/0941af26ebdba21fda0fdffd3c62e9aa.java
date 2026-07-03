@@ -1,0 +1,2 @@
+src/main/java/org/cactoos/io/ResourceOf.java;193;itest("", 193).given(this.path, new TextOf("org/cactoos/large-text.txt")).given(this.loader, Thread.currentThread().getContextClassLoader()).checkTrue(input != null);
+src/main/java/org/cactoos/io/ResourceOf.java;193;itest("", 193).given(this.path, new TextOf("org/cactoos/large-text.txts")).given(this.loader, Thread.currentThread().getContextClassLoader()).checkTrue(input == null);

@@ -1,0 +1,5 @@
+6b35461736bec71e4d7f020aa9559e582fd3efcd;06f3f486c28dcab1379b21631838f3bf168cba9c;6b35461736bec71e4d7f020aa9559e582fd3efcd;target stmt bit;joniles_mpxj/src/net/sf/mpxj/mpp/MPPUtility.java;181;null;;null;MANY_TO_ONE
+6b35461736bec71e4d7f020aa9559e582fd3efcd;06f3f486c28dcab1379b21631838f3bf168cba9c;6b35461736bec71e4d7f020aa9559e582fd3efcd;target stmt bit;joniles_mpxj/src/net/sf/mpxj/mpp/MPPUtility.java;182;null;;null;MANY_TO_ONE
+6b35461736bec71e4d7f020aa9559e582fd3efcd;06f3f486c28dcab1379b21631838f3bf168cba9c;6b35461736bec71e4d7f020aa9559e582fd3efcd;target stmt bit;joniles_mpxj/src/net/sf/mpxj/mpp/MPPUtility.java;183;null;;null;MANY_TO_ONE
+6b35461736bec71e4d7f020aa9559e582fd3efcd;06f3f486c28dcab1379b21631838f3bf168cba9c;6b35461736bec71e4d7f020aa9559e582fd3efcd;target stmt bit;joniles_mpxj/src/net/sf/mpxj/mpp/MPPUtility.java;184;null;;null;MANY_TO_ONE
+6b35461736bec71e4d7f020aa9559e582fd3efcd;06f3f486c28dcab1379b21631838f3bf168cba9c;06f3f486c28dcab1379b21631838f3bf168cba9c;target stmt bit;joniles_mpxj/src/net/sf/mpxj/mpp/MPPUtility.java;181;null;;null;MANY_TO_ONE

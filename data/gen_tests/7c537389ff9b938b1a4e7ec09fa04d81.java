@@ -1,0 +1,1 @@
+src/main/java/org/takes/facets/hamcrest/HmRsHeader.java;124;itest("", 111).given(this.headerm,"3.xml").given(parts,new String[] {"Invalid characters (?>) in processing instruction", null, null, null, null, null, null, null, null}).checkTrue(group());

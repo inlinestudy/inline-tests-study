@@ -1,0 +1,8 @@
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,1).given(midnightAsDate,false).given(minute,1111).given(second,1).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,1).given(midnightAsDate,true).given(minute,1).given(second,1).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,0).given(midnightAsDate,false).given(minute,0).given(second,0).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,943).given(midnightAsDate,true).given(minute,-961).given(second,1).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,-1).given(midnightAsDate,true).given(minute,1101).given(second,119).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,0).given(midnightAsDate,true).given(minute,0).given(second,-3122).checkFalse(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,0).given(midnightAsDate,true).given(minute,0).given(second,0).checkTrue(group());
+src/main/java/biweekly/util/com/google/ical/compat/javautil/DateIteratorFactory.java;154;itest("", 154).given(hour,0).given(midnightAsDate,true).given(minute,-1596).given(second,0).checkFalse(group());

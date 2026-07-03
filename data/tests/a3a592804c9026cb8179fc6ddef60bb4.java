@@ -1,0 +1,1 @@
+src/main/java/org/xmlbeam/types/DefaultTypeConverter.java;465;itest("", 465).given(array(String.class), new Class[]{String.class}).given(array(optionalFormatPattern[0]), new String[]{"yyyy MM dd"}).checkTrue(formatter != null);

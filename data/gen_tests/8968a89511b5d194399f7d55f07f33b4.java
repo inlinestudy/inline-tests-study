@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/trusthub/v1/customerprofiles/CustomerProfilesEvaluationsCreator.java;48;itest("", 48).given(path,"{CustomerProfileSid}").given(this.customerProfileSid,"{CustomerProfileSid}").checkEq(path,"{CustomerProfileSid}");

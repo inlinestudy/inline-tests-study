@@ -1,0 +1,1 @@
+src/main/java/com/coveros/selenified/OutputFile.java;305;itest("", 305).given(imageCount,1).given(str,"<a href='javascript:void(0)'(?s).*?(<img(?s).*? src='(.*?)'(?s).*?) style(?s).*?</img>").checkEq(str,"<img(?s).*? src='(.*?)'(?s).*?)></img><a href=\"#image-1\">Link to full size image</a>");

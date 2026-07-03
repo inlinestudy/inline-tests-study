@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/trusthub/v1/customerprofiles/CustomerProfilesChannelEndpointAssignmentReader.java;61;itest("", 61).given(path,"{CustomerProfileSid}").given(this.customerProfileSid,"{CustomerProfileSid}").checkEq(path,"{CustomerProfileSid}");

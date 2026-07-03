@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/conversations/v1/service/BindingReader.java;69;itest("", 69).given(path,"{ChatServiceSid}").given(this.chatServiceSid,"{ChatServiceSid}").checkEq(path,"{ChatServiceSid}");

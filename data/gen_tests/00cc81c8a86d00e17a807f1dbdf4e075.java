@@ -1,0 +1,3 @@
+src/main/java/fr/devnied/bitlib/BitUtils.java;344;itest("", 325).given(BYTE_SIZE,1).given(getMask(modTab, lenght),-1).given(tab,new byte[] {0, -1, -1, -1, -1, -1, -1, -1, -1}).given(index,0).checkEq(val,0);
+src/main/java/fr/devnied/bitlib/BitUtils.java;344;itest("", 325).given(BYTE_SIZE,-1).given(getMask(modTab, lenght),-1).given(tab,new byte[] {0, -1, -1, -1, -1, -1, -1, -1, -1}).given(index,-1).checkEq(val,-1);
+src/main/java/fr/devnied/bitlib/BitUtils.java;344;itest("", 325).given(BYTE_SIZE,-3761).given(getMask(modTab, lenght),88).given(tab,new byte[] {0, -1, -1, -1, -1, -1, -1, -1, -1}).given(index,1527).checkEq(val,0);

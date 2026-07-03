@@ -1,0 +1,3 @@
+3aced32d127a240558febfee7627325beb5b6b7f;a66954895a473c30c52ded6372165d8bcad0fe11;3aced32d127a240558febfee7627325beb5b6b7f;target stmt string;open-pay_openpay-java/src/main/java/mx/openpay/client/core/operations/ChargeOperations.java;61;null;;null;ONE_TO_MANY
+3aced32d127a240558febfee7627325beb5b6b7f;a66954895a473c30c52ded6372165d8bcad0fe11;a66954895a473c30c52ded6372165d8bcad0fe11;target stmt string;open-pay_openpay-java/src/main/java/mx/openpay/client/core/operations/ChargeOperations.java;64;null;;null;ONE_TO_MANY
+3aced32d127a240558febfee7627325beb5b6b7f;a66954895a473c30c52ded6372165d8bcad0fe11;a66954895a473c30c52ded6372165d8bcad0fe11;target stmt string;open-pay_openpay-java/src/main/java/mx/openpay/client/core/operations/ChargeOperations.java;66;null;;null;ONE_TO_MANY

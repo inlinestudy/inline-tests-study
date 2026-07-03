@@ -1,0 +1,1 @@
+src/main/java/jcifs/internal/smb1/AndXServerMessageBlock.java;206;itest("", 206).given(getBatchLimit(getConfig(), (byte) this.andx.getCommand()),-3300).given(this.batchLevel,-3300).given(getConfig(),null).given(this.andx,null).checkTrue(group());

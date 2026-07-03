@@ -1,0 +1,3 @@
+8172d54e0560955a364fabe6ed57db3bea38fac8;b9219314802fb0236b0bb39e8e38cc0e5b3077ec;8172d54e0560955a364fabe6ed57db3bea38fac8;target stmt bit;lettuce-io_lettuce-core/src/main/java/com/lambdaworks/codec/CRC16.java;35;null;;null;MANY_TO_ONE
+8172d54e0560955a364fabe6ed57db3bea38fac8;b9219314802fb0236b0bb39e8e38cc0e5b3077ec;8172d54e0560955a364fabe6ed57db3bea38fac8;target stmt bit;lettuce-io_lettuce-core/src/main/java/com/lambdaworks/codec/CRC16.java;36;null;;null;MANY_TO_ONE
+8172d54e0560955a364fabe6ed57db3bea38fac8;b9219314802fb0236b0bb39e8e38cc0e5b3077ec;b9219314802fb0236b0bb39e8e38cc0e5b3077ec;target stmt bit;lettuce-io_lettuce-core/src/main/java/com/lambdaworks/codec/CRC16.java;46;null;;null;MANY_TO_ONE

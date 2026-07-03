@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/conversations/v1/service/ConfigurationUpdater.java;62;itest("", 62).given(path,"{ChatServiceSid}").given(this.chatServiceSid,"{ChatServiceSid}").checkEq(path,"{ChatServiceSid}");

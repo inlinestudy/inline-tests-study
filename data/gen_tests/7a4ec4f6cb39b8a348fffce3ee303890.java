@@ -1,0 +1,2 @@
+src/main/java/io/github/lukehutch/fastclasspathscanner/scanner/MethodInfo.java;465;itest("", 456).given(i,0).given(parameterAccessFlagsInternal,new int[] {0, 0, 0, 0, 0, 0, 0}).checkTrue(group());
+src/main/java/io/github/lukehutch/fastclasspathscanner/scanner/MethodInfo.java;465;itest("", 456).given(i,0).given(parameterAccessFlagsInternal,new int[] {32768, 0, 0, 0, 0, 0, 0, 0, 0}).checkFalse(group());

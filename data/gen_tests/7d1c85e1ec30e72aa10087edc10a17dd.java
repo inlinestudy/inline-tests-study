@@ -1,0 +1,2 @@
+src/main/java/com/arangodb/springframework/core/repository/ArangoExampleConverter.java;55;itest("", 55).given(fullPath,"").given(ignoreCase,true).given(binding,"").checkEq(clause,"REGEX_TEST(e., @, true)");
+src/main/java/com/arangodb/springframework/core/repository/ArangoExampleConverter.java;55;itest("", 55).given(fullPath,"com.arangodb.springframework.core.repository.ArangoExampleConverter_55").given(ignoreCase,false).given(binding,"&h18S").checkEq(clause,"REGEX_TEST(e.com.arangodb.springframework.core.repository.ArangoExampleConverter_55, @&h18S, false)");

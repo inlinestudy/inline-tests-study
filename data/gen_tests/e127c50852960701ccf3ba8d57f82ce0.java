@@ -1,0 +1,1 @@
+src/main/java/com/phoenixnap/oss/ramlplugin/raml2code/helpers/NamingHelper.java;487;itest("", 458).given(SLASH,"0.xml").given(url,"com.phoenixnap.oss.ramlplugin.raml2code.helpers.NamingHelper_458").checkEq(splitUrl,new String[] {});

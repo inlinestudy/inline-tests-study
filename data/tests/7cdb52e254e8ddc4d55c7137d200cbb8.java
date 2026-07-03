@@ -1,0 +1,4 @@
+src/main/java/com/podio/ExceptionFilter.java;20;itest("", 20).given(response, null).given(response.getClientResponseStatus(), null).given(response.getClientResponseStatus().getFamily(), Family.CLIENT_ERROR).checkTrue(group());
+src/main/java/com/podio/ExceptionFilter.java;20;itest("", 20).given(response, null).given(response.getClientResponseStatus(), null).given(response.getClientResponseStatus().getFamily(), Family.SUCCESSFUL).checkTrue(group());
+src/main/java/com/podio/ExceptionFilter.java;20;itest("", 20).given(response, null).given(response.getClientResponseStatus(), ClientResponse.Status.fromStatusCode(404)).given(response.getClientResponseStatus().getFamily(), Family.CLIENT_ERROR).checkTrue(group());
+src/main/java/com/podio/ExceptionFilter.java;20;itest("", 20).given(response, null).given(response.getClientResponseStatus(), ClientResponse.Status.fromStatusCode(404)).given(response.getClientResponseStatus().getFamily(), Family.SUCCESSFUL).checkFalse(group());

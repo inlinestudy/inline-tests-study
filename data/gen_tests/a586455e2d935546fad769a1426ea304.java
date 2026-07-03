@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/conversations/v1/conversation/MessageReader.java;56;itest("", 56).given(path,"{ConversationSid}").given(this.conversationSid,"{ConversationSid}").checkEq(path,"{ConversationSid}");

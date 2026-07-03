@@ -1,0 +1,9 @@
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "SYNTAX").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "aSYNTAXb").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "UNKNOWN").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "aUNKNOWNb").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "NOAUTH").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "aNOAUTHb").checkTrue(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "syntax").checkFalse(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "Syntax").checkFalse(group());
+src/main/java/redis/clients/jedis/Connection.java;407;itest("", 407).given(errorMsg, "KNOWN").checkFalse(group());

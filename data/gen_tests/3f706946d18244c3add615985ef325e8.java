@@ -1,0 +1,4 @@
+src/main/java/com/noctarius/hazelcast/kubernetes/HazelcastKubernetesDiscoveryStrategy.java;48;itest("", 48).given(serviceDns,"com.noctarius.hazelcast.kubernetes.HazelcastKubernetesDiscoveryStrategy_48").given(namespace,"com.noctarius.hazelcast.kubernetes.HazelcastKubernetesDiscoveryStrategy_48").given(serviceName,null).checkFalse(group());
+src/main/java/com/noctarius/hazelcast/kubernetes/HazelcastKubernetesDiscoveryStrategy.java;48;itest("", 48).given(serviceDns,null).given(namespace,"").given(serviceName,"").checkFalse(group());
+src/main/java/com/noctarius/hazelcast/kubernetes/HazelcastKubernetesDiscoveryStrategy.java;48;itest("", 48).given(serviceDns,null).given(namespace,null).given(serviceName,"AG+g{`xmOMIKE").checkTrue(group());
+src/main/java/com/noctarius/hazelcast/kubernetes/HazelcastKubernetesDiscoveryStrategy.java;48;itest("", 48).given(serviceDns,null).given(namespace,"_?bJ.[aE,'yRj|n").given(serviceName,null).checkTrue(group());

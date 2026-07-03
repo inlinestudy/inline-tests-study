@@ -1,0 +1,4 @@
+src/main/java/de/gwdg/metadataqa/api/calculator/CompletenessCalculator.java;133;itest("", 133).given(skippableIds, new ArrayList<>(java.util.Arrays.asList("Foo"))).given(identifierPath, new JsonBranch("A", "B", "C")).checkTrue(group());
+src/main/java/de/gwdg/metadataqa/api/calculator/CompletenessCalculator.java;133;itest("", 133).given(skippableIds, new ArrayList<>(java.util.Arrays.asList("Foo"))).given(identifierPath, null).checkFalse(group());
+src/main/java/de/gwdg/metadataqa/api/calculator/CompletenessCalculator.java;133;itest("", 133).given(skippableIds, new ArrayList<>()).given(identifierPath, new JsonBranch("A", "B", "C")).checkFalse(group());
+src/main/java/de/gwdg/metadataqa/api/calculator/CompletenessCalculator.java;133;itest("", 133).given(skippableIds, new ArrayList<>()).given(identifierPath, null).checkFalse(group());

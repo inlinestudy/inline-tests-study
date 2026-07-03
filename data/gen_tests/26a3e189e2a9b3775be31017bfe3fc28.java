@@ -1,0 +1,1 @@
+src/main/java/nonapi/io/github/classgraph/classloaderhandler/TomcatWebappClassLoaderBaseHandler.java;93;itest("", 93).given(archivePath,"nonapi.io.github.classgraph.classloaderhandler.TomcatWebappClassLoaderBaseHandler_93").checkTrue(group());

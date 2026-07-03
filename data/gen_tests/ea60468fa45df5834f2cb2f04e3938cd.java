@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/conversations/v1/service/configuration/NotificationFetcher.java;42;itest("", 42).given(path,"{ChatServiceSid}").given(this.chatServiceSid,"{ChatServiceSid}").checkEq(path,"{ChatServiceSid}");

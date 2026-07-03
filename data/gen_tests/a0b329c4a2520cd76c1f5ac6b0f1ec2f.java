@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/insights/v1/conference/ConferenceParticipantReader.java;66;itest("", 66).given(path,"{ConferenceSid}").given(this.conferenceSid,"{ConferenceSid}").checkEq(path,"{ConferenceSid}");

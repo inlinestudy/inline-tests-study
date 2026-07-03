@@ -1,0 +1,10 @@
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new FileNotFoundException("fff")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("fff")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("LOADING Redis is loading the dataset in memory")).checkTrue(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("xLOADING Redis is loading the dataset in memory")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("LOADING Redis is loading the dataset in memoryxxx")).checkTrue(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new FileNotFoundException("fff")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("fff")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("LOADING Redis is loading the dataset in memory")).checkTrue(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("xLOADING Redis is loading the dataset in memory")).checkFalse(isLoadingDataset);
+src/main/java/net/greghaines/jesque/worker/DefaultPoolExceptionHandler.java;38;itest("", 38).given(exception, new JedisDataException("LOADING Redis is loading the dataset in memoryxxx")).checkTrue(isLoadingDataset);

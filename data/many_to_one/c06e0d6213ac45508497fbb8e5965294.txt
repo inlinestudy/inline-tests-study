@@ -1,0 +1,3 @@
+4c26614632c640f65a2fdc9bd8ca067b281a38c9;cceaa3dcdcd79b28ed790e050111d59725173a8c;4c26614632c640f65a2fdc9bd8ca067b281a38c9;target stmt bit;jfaster_mango/src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;17;null;;null;MANY_TO_ONE
+4c26614632c640f65a2fdc9bd8ca067b281a38c9;cceaa3dcdcd79b28ed790e050111d59725173a8c;4c26614632c640f65a2fdc9bd8ca067b281a38c9;target stmt bit;jfaster_mango/src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;19;null;;null;MANY_TO_ONE
+4c26614632c640f65a2fdc9bd8ca067b281a38c9;cceaa3dcdcd79b28ed790e050111d59725173a8c;cceaa3dcdcd79b28ed790e050111d59725173a8c;target stmt bit;jfaster_mango/src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;17;null;;null;MANY_TO_ONE

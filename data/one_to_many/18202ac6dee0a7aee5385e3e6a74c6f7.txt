@@ -1,0 +1,3 @@
+c97a5dec72a69c7b465e52f0539f3f5a3c41983b;3bffa143561ae2d1693ce3eb4148fe75690049ad;c97a5dec72a69c7b465e52f0539f3f5a3c41983b;target stmt string;snowflakedb_snowflake-jdbc/src/main/java/net/snowflake/client/core/SFTrustManager.java;1122;null;;null;ONE_TO_MANY
+c97a5dec72a69c7b465e52f0539f3f5a3c41983b;3bffa143561ae2d1693ce3eb4148fe75690049ad;3bffa143561ae2d1693ce3eb4148fe75690049ad;target stmt string;snowflakedb_snowflake-jdbc/src/main/java/net/snowflake/client/core/SFTrustManager.java;1127;null;;null;ONE_TO_MANY
+c97a5dec72a69c7b465e52f0539f3f5a3c41983b;3bffa143561ae2d1693ce3eb4148fe75690049ad;3bffa143561ae2d1693ce3eb4148fe75690049ad;target stmt string;snowflakedb_snowflake-jdbc/src/main/java/net/snowflake/client/core/SFTrustManager.java;1134;null;;null;ONE_TO_MANY

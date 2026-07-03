@@ -1,0 +1,4 @@
+src/main/java/io/github/bonigarcia/wdm/WebDriverManager.java;1527;itest("", 1527).given(isUnknown(browserVersion), true).given(getDockerService().isBrowserVersionLatestMinus(browserVersion), true).checkTrue(group());
+src/main/java/io/github/bonigarcia/wdm/WebDriverManager.java;1527;itest("", 1527).given(isUnknown(browserVersion), false).given(getDockerService().isBrowserVersionLatestMinus(browserVersion), true).checkTrue(group());
+src/main/java/io/github/bonigarcia/wdm/WebDriverManager.java;1527;itest("", 1527).given(isUnknown(browserVersion), true).given(getDockerService().isBrowserVersionLatestMinus(browserVersion), false).checkTrue(group());
+src/main/java/io/github/bonigarcia/wdm/WebDriverManager.java;1527;itest("", 1527).given(isUnknown(browserVersion), false).given(getDockerService().isBrowserVersionLatestMinus(browserVersion), false).checkFalse(group());

@@ -1,0 +1,2 @@
+src/main/java/net/nicoulaj/maven/plugins/checksum/mojo/DependenciesMojo.java;179;itest("", 179).given(scopes, null).given(types, null).given(artifact.getFile(), new java.io.File("foo")).given(artifact.getScope(), "").given(artifact.getType(), "").checkTrue(group());
+src/main/java/net/nicoulaj/maven/plugins/checksum/mojo/DependenciesMojo.java;179;itest("", 179).given(scopes, null).given(types, null).given(artifact.getFile(), null).given(artifact.getScope(), "").given(artifact.getType(), "").checkFalse(group());

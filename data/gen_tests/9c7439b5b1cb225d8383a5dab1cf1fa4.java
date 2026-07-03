@@ -1,0 +1,1 @@
+src/main/java/io/github/lukehutch/fastclasspathscanner/classloaderhandler/EquinoxClassLoaderHandler.java;64;itest("", 66).given(addBundleFile(ReflectionUtils.getFieldVal(bundlefile, "wrapped"), path, classLoaders, classpathFinder, log),false).given(handled,true).checkEq(handled,true);

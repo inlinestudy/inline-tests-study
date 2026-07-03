@@ -1,0 +1,1 @@
+src/main/java/com/twilio/sdk/deleters/UsageTriggerDeleter.java;26;itest("", 26).given(client.getAccountSid(), "foo").checkEq(request.getMethod(), HttpMethod.DELETE).checkFalse(request.getUri().isEmpty());

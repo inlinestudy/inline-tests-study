@@ -1,0 +1,1 @@
+src/main/java/org/jcodec/codecs/h264/decode/SliceReader.java;469;itest("", 469).given(readCodedBlockPatternInter(lAvb, tAvb, leftCBPLuma | (leftCBPChroma << 4), topCBPLuma[mbX] | (topCBPChroma[mbX] << 4), leftMBType, topMBType[mbX]),0).checkEq(mBlock.cbp,0);

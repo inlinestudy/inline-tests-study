@@ -1,0 +1,1 @@
+src/main/java/com/twilio/sdk/creators/UsageTriggerCreator.java;54;itest("", 54).given(client.getAccountSid(), "foo").checkEq(request.getMethod(), HttpMethod.POST).checkFalse(request.getUri().isEmpty());

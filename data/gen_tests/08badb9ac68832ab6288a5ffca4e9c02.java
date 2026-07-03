@@ -1,0 +1,1 @@
+src/main/java/com/xebia/incubator/xebium/ScreenCapture.java;110;itest("", 114).given(screenshotBaseDir,"FQyWpDQ%E*jj").given(stepNumber,2).given(trim(methodName),"FQyWpDQ%E*jj").checkEq(file,"0.xml");

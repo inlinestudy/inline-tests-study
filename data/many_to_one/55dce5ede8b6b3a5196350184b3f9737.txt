@@ -1,0 +1,3 @@
+8b8b9d3a164e2cd9cac29b8851b0171005f9e150;2f6eedaa3e21c4b83d6ae5bce934c3194071e19e;8b8b9d3a164e2cd9cac29b8851b0171005f9e150;target stmt string;j256_ormlite-core/src/main/java/com/j256/ormlite/field/DatabaseFieldConfig.java;484;null;;null;MANY_TO_ONE
+8b8b9d3a164e2cd9cac29b8851b0171005f9e150;2f6eedaa3e21c4b83d6ae5bce934c3194071e19e;8b8b9d3a164e2cd9cac29b8851b0171005f9e150;target stmt string;j256_ormlite-core/src/main/java/com/j256/ormlite/field/DatabaseFieldConfig.java;485;null;;null;MANY_TO_ONE
+8b8b9d3a164e2cd9cac29b8851b0171005f9e150;2f6eedaa3e21c4b83d6ae5bce934c3194071e19e;2f6eedaa3e21c4b83d6ae5bce934c3194071e19e;target stmt string;j256_ormlite-core/src/main/java/com/j256/ormlite/field/DatabaseFieldConfig.java;568;null;;null;MANY_TO_ONE

@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/messaging/v1/service/UsAppToPersonUsecaseFetcher.java;47;itest("", 47).given(path,"{MessagingServiceSid}").given(this.messagingServiceSid,"{MessagingServiceSid}").checkEq(path,"{MessagingServiceSid}");

@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Shipment.java;1366;itest("", 1389).given(request(RequestMethod.POST, String.format("%s/forms", instanceURL(Shipment.class, this.getId())), wrappedParams, Shipment.class, apiKey),null).checkEq(response,null);

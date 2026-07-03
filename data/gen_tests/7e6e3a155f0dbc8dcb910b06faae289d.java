@@ -1,0 +1,1 @@
+src/main/java/io/vlingo/actors/proxy/ProxyGenerator.java;166;itest("", 168).given(protocolInterface,"0.xml").given(representationName,"").checkEq(mailboxSendStatement,"      mailbox.send(new LocalMessage<Object>(actor, typedActor, consumer, ));");

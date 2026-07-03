@@ -1,0 +1,2 @@
+src/main/java/com/corundumstudio/socketio/ack/AckManager.java;97;itest("", 97).given(client.getSessionId(), UUID.fromString("beb3bacb-a671-4d39-8dda-4bdfc50e26c2")).given(packet.getAckId(), 1l).checkEq(key.getIndex(), 1l);
+src/main/java/com/corundumstudio/socketio/ack/AckManager.java;97;itest("", 97).given(client.getSessionId(), UUID.fromString("beb3bacb-a671-4d39-8dda-4bdfc50e26c2")).given(packet.getAckId(), 100l).checkEq(key.getIndex(), 100l);

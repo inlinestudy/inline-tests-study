@@ -1,0 +1,1 @@
+src/main/java/com/adobe/epubcheck/opf/XRefChecker.java;244;itest("", 270).given(ref.refResource,"\u0000://").given(RT_VIDEO,3).given(RT_AUDIO,3).given(version,"0.xml").given(ref.type,323).checkTrue(group());

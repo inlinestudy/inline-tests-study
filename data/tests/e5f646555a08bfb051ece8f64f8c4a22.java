@@ -1,0 +1,1 @@
+src/main/java/com/amashchenko/maven/plugin/gitflow/GitFlowHotfixFinishMojo.java;302;itest("", 302).given(developVersionInfo, new GitFlowVersionInfo("1.0.0")).checkEq(nextSnapshotVersion, "1.0.1-SNAPSHOT");

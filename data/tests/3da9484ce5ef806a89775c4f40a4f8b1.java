@@ -1,0 +1,1 @@
+src/main/java/com/twilio/sdk/readers/UsageRecordReader.java;30;itest("", 30).given(client.getAccountSid(), "foo").checkEq(request.getMethod(), HttpMethod.GET).given(uri, "/Accounts/{AccountSid}/Usage/Records.json").checkFalse(request.getUri().isEmpty());

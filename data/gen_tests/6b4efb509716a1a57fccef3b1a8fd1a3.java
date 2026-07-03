@@ -1,0 +1,1 @@
+src/main/java/org/nnsoft/guice/rocoto/configuration/resolver/PropertiesResolverProvider.java;100;itest("", 100).given(PIPE_SEPARATOR,"org.nnsoft.guice.rocoto.configuration.resolver.PropertiesResolverProvider_100").given(key,"org.nnsoft.guice.rocoto.configuration.resolver.PropertiesResolverProvider_100").checkEq(pipeAt,0);

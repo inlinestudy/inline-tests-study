@@ -1,0 +1,2 @@
+src/main/java/org/mariadb/jdbc/internal/mysql/MySQLProtocol.java;194;itest("", 194).given(jdbcUrl.getOptions().trustServerCertificate,false).given(jdbcUrl.getOptions().serverSslCert,null).checkTrue(group());
+src/main/java/org/mariadb/jdbc/internal/mysql/MySQLProtocol.java;194;itest("", 194).given(jdbcUrl.getOptions().trustServerCertificate,false).given(jdbcUrl.getOptions().serverSslCert,"7!\"{rCTxMO|dZyn&").checkFalse(group());

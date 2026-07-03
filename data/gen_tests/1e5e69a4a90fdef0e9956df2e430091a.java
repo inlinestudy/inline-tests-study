@@ -1,0 +1,2 @@
+src/main/java/com/github/jinahya/bit/io/AbstractBitOutput.java;78;itest("", 78).given(octet,1945).given(flags,new boolean[] {false, false, false, false, false, false, false, false, false}).given(i,0).checkEq(octet,1945);
+src/main/java/com/github/jinahya/bit/io/AbstractBitOutput.java;78;itest("", 78).given(octet,1190).given(flags,new boolean[] {false, false, false, false, false, true, true, false, false}).given(i,0).checkEq(octet,1190);

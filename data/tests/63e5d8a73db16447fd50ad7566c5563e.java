@@ -1,0 +1,4 @@
+src/main/java/com/github/davidmoten/rx2/internal/flowable/buffertofile/FlowableOnBackpressureBufferToFile.java;256;itest("", 256).given(isDone, true).given(error, new FileNotFoundException()).checkTrue(group());
+src/main/java/com/github/davidmoten/rx2/internal/flowable/buffertofile/FlowableOnBackpressureBufferToFile.java;256;itest("", 256).given(isDone, true).given(error, null).checkFalse(group());
+src/main/java/com/github/davidmoten/rx2/internal/flowable/buffertofile/FlowableOnBackpressureBufferToFile.java;256;itest("", 256).given(isDone, false).given(error, new FileNotFoundException()).checkFalse(group());
+src/main/java/com/github/davidmoten/rx2/internal/flowable/buffertofile/FlowableOnBackpressureBufferToFile.java;256;itest("", 256).given(isDone, false).given(error, null).checkFalse(group());

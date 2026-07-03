@@ -1,0 +1,1 @@
+src/main/java/org/mitre/dsmiley/httpproxy/ProxyServlet.java;480;itest("", 476).given(getCookieNamePrefix(),"org.mitre.dsmiley.httpproxy.ProxyServlet_476").given(cookieName,"org.mitre.dsmiley.httpproxy.ProxyServlet_476").checkEq(cookieName,"");

@@ -1,0 +1,4 @@
+src/main/java/io/github/classgraph/Classfile.java;680;itest("", 657).given(otherString,"=})xVi*kVE.|Rz/QI").given(i,1).given(inputStreamOrByteBuffer.buf,new byte[] {60, 59, 36, 0, -98, 125, -30, 115}).given(strStart,1).checkTrue(group());
+src/main/java/io/github/classgraph/Classfile.java;680;itest("", 657).given(otherString,"w").given(i,0).given(inputStreamOrByteBuffer.buf,new byte[] {-67, -76, -1, 0, 1, 0, 0, 24, 0}).given(strStart,1).checkTrue(group());
+src/main/java/io/github/classgraph/Classfile.java;680;itest("", 657).given(otherString,"w").given(i,0).given(inputStreamOrByteBuffer.buf,new byte[] {119, 54, 0, -25, 97, 105, 119, 86, 0}).given(strStart,0).checkFalse(group());
+src/main/java/io/github/classgraph/Classfile.java;680;itest("", 657).given(otherString,"-`Phr>>RL").given(i,1).given(inputStreamOrByteBuffer.buf,new byte[] {0, 0, 0, 0, 0, 0, 0, 0, 0}).given(strStart,0).checkTrue(group());

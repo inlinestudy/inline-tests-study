@@ -1,0 +1,4 @@
+src/main/java/org/mariadb/jdbc/internal/queryresults/MariaDbValueObject.java;1326;itest("", 1102).given(TINYINT1_IS_BIT,119).given(columnInfo,"0.xml").given(datatypeMappingFlags,-983).checkTrue(group());
+src/main/java/org/mariadb/jdbc/internal/queryresults/MariaDbValueObject.java;1326;itest("", 1102).given(TINYINT1_IS_BIT,-2535).given(columnInfo,"5.xml").given(datatypeMappingFlags,0).checkFalse(group());
+src/main/java/org/mariadb/jdbc/internal/queryresults/MariaDbValueObject.java;1326;itest("", 1102).given(TINYINT1_IS_BIT,1).given(columnInfo,"2.xml").given(datatypeMappingFlags,159).checkFalse(group());
+src/main/java/org/mariadb/jdbc/internal/queryresults/MariaDbValueObject.java;1326;itest("", 1102).given(TINYINT1_IS_BIT,93).given(columnInfo,"1.xml").given(datatypeMappingFlags,3437).checkFalse(group());

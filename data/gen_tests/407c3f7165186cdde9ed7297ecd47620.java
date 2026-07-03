@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/supersim/v1/networkaccessprofile/NetworkAccessProfileNetworkReader.java;51;itest("", 51).given(path,"{NetworkAccessProfileSid}").given(this.networkAccessProfileSid,"{NetworkAccessProfileSid}").checkEq(path,"{NetworkAccessProfileSid}");

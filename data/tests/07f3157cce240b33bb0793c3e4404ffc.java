@@ -1,0 +1,2 @@
+src/main/java/net/finmath/marketdata/model/curves/DiscountCurve.java;140;itest("", 140).given(givenDiscountFactors, new double[1]).given(timeIndex, 0).given(givenZeroRates, new double[]{1}).given(times, new double[]{2}).checkEq(givenDiscountFactors[0], Math.exp(-2));
+src/main/java/net/finmath/marketdata/model/curves/DiscountCurve.java;140;itest("", 140).given(givenDiscountFactors, new double[1]).given(timeIndex, 0).given(givenZeroRates, new double[]{3}).given(times, new double[]{1}).checkEq(givenDiscountFactors[0], Math.exp(-3));

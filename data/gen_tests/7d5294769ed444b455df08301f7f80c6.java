@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/flexapi/v1/interaction/InteractionChannelReader.java;51;itest("", 51).given(path,"{InteractionSid}").given(this.interactionSid,"{InteractionSid}").checkEq(path,"{InteractionSid}");

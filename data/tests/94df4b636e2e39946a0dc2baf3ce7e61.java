@@ -1,0 +1,1 @@
+src/main/java/de/neuland/jade4j/parser/node/FilterNode.java;43;itest("", 43).given(values, new ArrayList<String>(java.util.Arrays.asList("this", "is", "a", "test"))).checkEq(result, "this\nis\na\ntest");

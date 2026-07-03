@@ -1,0 +1,1 @@
+src/main/java/com/twilio/sdk/fetchers/UsageTriggerFetcher.java;21;itest("", 21).given(client.getAccountSid(), "foo").checkEq(request.getMethod(), HttpMethod.GET).checkFalse(request.getUri().isEmpty());

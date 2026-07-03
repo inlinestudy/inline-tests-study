@@ -1,0 +1,1 @@
+if (!StringUtils.isEmpty(String.valueOf(value)) && optionalBiItem.get().getAttributes().get(key) != null)

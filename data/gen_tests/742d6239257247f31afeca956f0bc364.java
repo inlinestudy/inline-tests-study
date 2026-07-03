@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Order.java;373;itest("", 410).given(request(RequestMethod.GET, String.format("%s/rates", instanceURL(Order.class, this.getId())), params, Order.class, apiKey),null).checkEq(response,null);

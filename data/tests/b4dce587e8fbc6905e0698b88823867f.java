@@ -1,0 +1,1 @@
+src/main/java/casmi/matrix/Vector3D.java;100;itest("", 100).given(this.x, 1.0).given(this.y, 2.0).given(this.z, 3.0).given(b, 4.0).checkEq(result.getX(), 4.0).checkEq(result.getY(), 8.0).checkEq(result.getZ(), 12.0);

@@ -1,0 +1,1 @@
+src/main/java/com/twilio/sdk/updaters/UsageTriggerUpdater.java;57;itest("", 57).given(client.getAccountSid(), "foo").checkEq(request.getMethod(), HttpMethod.POST).given(sid, "bar").checkFalse(request.getUri().isEmpty());

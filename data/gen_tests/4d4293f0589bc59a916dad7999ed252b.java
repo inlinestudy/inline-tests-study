@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/taskrouter/v1/workspace/worker/WorkersCumulativeStatisticsFetcher.java;63;itest("", 63).given(path,"{WorkspaceSid}").given(this.workspaceSid,"{WorkspaceSid}").checkEq(path,"{WorkspaceSid}");

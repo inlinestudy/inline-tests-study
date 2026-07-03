@@ -1,0 +1,1 @@
+src/main/java/net/finmath/montecarlo/interestrate/products/indices/NumerairePerformanceIndex.java;67;itest("", 67).given(daycountConvention, new net.finmath.time.daycount.DayCountConvention_ACT_360()).given(fixingDate, LocalDateTime.now()).given(paymentDate, LocalDate.now().plus(10, ChronoUnit.DAYS)).checkEq(periodLength, 0.027777777777777776);

@@ -1,0 +1,1 @@
+src/main/java/com/twilio/rest/numbers/v2/regulatorycompliance/bundle/ItemAssignmentCreator.java;48;itest("", 48).given(path,"{BundleSid}").given(this.bundleSid,"{BundleSid}").checkEq(path,"{BundleSid}");

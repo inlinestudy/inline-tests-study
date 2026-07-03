@@ -1,0 +1,5 @@
+src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;1223;itest("", 1146).given(kind,1443).given(l,1443L).checkFalse(group());
+src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;1223;itest("", 1146).given(kind,-552).given(l,-1475L).checkFalse(group());
+src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;1223;itest("", 1146).given(kind,1027).given(l,-1L).checkTrue(group());
+src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;1223;itest("", 1146).given(kind,0).given(l,-1L).checkFalse(group());
+src/main/java/org/jfaster/mango/parser/ParserTokenManager.java;1223;itest("", 1146).given(kind,27).given(l,-1075L).checkFalse(group());

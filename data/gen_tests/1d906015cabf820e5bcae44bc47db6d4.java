@@ -1,0 +1,1 @@
+src/main/java/com/urswolfer/gerrit/client/rest/http/GerritRestClient.java;515;itest("", 513).given(statusLine,"0.xml").given(body,"H?0W%=9j[").checkEq(message,"Request not successful. Message: H?0W%=9j[. Status-Code: 0. Content: H?0W%=9j[.");

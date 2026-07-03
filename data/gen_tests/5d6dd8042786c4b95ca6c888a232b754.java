@@ -1,0 +1,1 @@
+src/main/java/net/greghaines/jesque/utils/VersionUtils.java;80;itest("", 77).given(dotPattern,"0.xml").given(version,"net.greghaines.jesque.utils.VersionUtils_77").checkEq(versionStrParts,new String[] {});

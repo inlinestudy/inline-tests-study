@@ -1,0 +1,1 @@
+src/main/java/net/finmath/montecarlo/interestrate/HullWhiteModel.java;322;itest("", 322).given(discountCurveFromForwardCurve.getDiscountFactor(curveModel, timeNext), 1).given(discountCurveFromForwardCurve.getDiscountFactor(curveModel, time), 2).given(timeNext, 4).given(time, 2).checkEq(zeroRate, 0.34657359027997264);

@@ -1,0 +1,1 @@
+src/main/java/com/theupswell/appengine/counter/service/ShardedCounterServiceImpl.java;1420;itest("", 1428).given(counterStatus,"0.xml").given(counterName,"=btS\tMc").checkEq(msg,"Can't mutate the amount of counter '=btS\tMc' because it's currently in the READ_ONLY_COUNT state but must be in in the AVAILABLE state!");

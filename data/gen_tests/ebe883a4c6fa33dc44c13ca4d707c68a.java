@@ -1,0 +1,1 @@
+src/main/java/com/easypost/model/Shipment.java;1109;itest("", 1131).given(request(RequestMethod.GET, String.format("%s/label", instanceURL(Shipment.class, this.getId())), params, Shipment.class, apiKey),null).checkEq(response,null);

@@ -1,0 +1,1 @@
+src/main/java/com/agapsys/utils/console/printer/tables/Cell.java;41;itest("", 39).given(args,"1.xml").given(value,"com.agapsys.utils.console.printer.tables.Cell_39").checkEq(value,"com.agapsys.utils.console.printer.tables.Cell_39");

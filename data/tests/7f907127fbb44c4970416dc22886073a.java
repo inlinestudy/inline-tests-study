@@ -1,0 +1,2 @@
+src/main/java/org/asteriskjava/manager/action/OriginateAction.java;449;itest("", 449).given(iter, new java.util.ArrayList<String>(java.util.Arrays.asList("foo", "bar")).iterator()).checkTrue(buffer.toString().equals("foo")).checkTrue(buffer instanceof StringBuilder);
+src/main/java/org/asteriskjava/manager/action/OriginateAction.java;449;itest("", 449).given(iter, new java.util.ArrayList<String>(java.util.Arrays.asList("baz")).iterator()).checkTrue(buffer.toString().equals("baz")).checkTrue(buffer instanceof StringBuilder);
